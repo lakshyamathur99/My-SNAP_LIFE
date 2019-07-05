@@ -1,0 +1,2903 @@
+{
+    "lens_id": "",
+    "document_id": "kugybQiucbc-Gj0AunT8",
+    "original_document_id": "9V_TjvyZEgzNKW5RJPEq",
+    "version": "14",
+    "lastChanged": "1562157252956",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "0",
+            "patch": "0",
+            "build": "2"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "0",
+            "patch": "0",
+            "build": "2"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Cricket Bat",
+                        "cricket_bat_animated"
+                    ],
+                    [
+                        "Face Paint Patterns"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "eye_lines_primary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "eye_lines_secondary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "eye_mask_primary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "eye_mask_secondary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "kitty_primary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "kitty_secondary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "swirl_primary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "swirl_secondary"
+                    ],
+                    [
+                        "Logos",
+                        "cat_animated"
+                    ],
+                    [
+                        "Logos",
+                        "cricket_logo"
+                    ],
+                    [
+                        "Logos",
+                        "flag-3d-round-250"
+                    ],
+                    [
+                        "Logos",
+                        "wow"
+                    ],
+                    [
+                        "Logos",
+                        "yay"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Materials"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Materials",
+                        "cricket_cap"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Materials",
+                        "cricket_cushions"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Materials",
+                        "cricket_gird"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Materials",
+                        "cricket_logo"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Materials",
+                        "cricket_occluder"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Materials",
+                        "cricket_shadow"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Materials",
+                        "cricket_steel"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Meshes",
+                        "cricket_helmet_logo"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Meshes",
+                        "cricket_helmet_main"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Meshes",
+                        "grid"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Meshes",
+                        "ocluder"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Meshes",
+                        "shadow"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "base"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "cap_shadow"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "cricket_helmet_Cricket_helmet_BaseColor"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "cricket_helmet_Cricket_helmet_Mask"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "cricket_helmet_Cricket_helmet_Normal"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "grid_base"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "grid_masc"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "grid_normal"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "logo_normal"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "logo_tech"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "mask_cushions"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "mask_main"
+                    ],
+                    [
+                        "Models",
+                        "Cricket Helmet",
+                        "Textures",
+                        "mask_metalls"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "CricketHelmetController"
+                    ],
+                    [
+                        "Scripts",
+                        "CricketHelmetProperties"
+                    ],
+                    [
+                        "Scripts",
+                        "FaceTrigger"
+                    ],
+                    [
+                        "Textures",
+                        "Scene Object 0 Output"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Textures",
+                        "logo_opacity_mask"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1495032264252211:307",
+                    "1519646016078432:20163",
+                    "1519649635294464:26959",
+                    "1519689117514299:44802",
+                    "1519693795709998:5976",
+                    "1519754130603380:3189",
+                    "1520546489934271:37113",
+                    "1521490711580703:78568",
+                    "1521565863891751:9464",
+                    "1521837200876860:3415",
+                    "1522170902772223:4314"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "9a72d94b7051bd6e23c0720357aeec56",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_now_open_your_mouth"
+            ],
+            "lens": "IND Cricket Helmet",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1519692851290800:4860",
+                    "1519692992521333:5390",
+                    "1519693795714559:5979",
+                    "1520298381338376:134273",
+                    "1520299776349775:8096",
+                    "1520300279177762:15793",
+                    "1520300333847500:16557",
+                    "1520535762333927:360595",
+                    "1521490348734815:69066",
+                    "1521490711583957:78571",
+                    "1521490722242044:79737",
+                    "1521689253683100:3572"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "112",
+                    "uid": "1519673772676472:19426",
+                    "name": "\/Resources\/Resource112.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "113",
+                    "uid": "1519674086465957:22446",
+                    "name": "\/Resources\/Resource113.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1519771519063885:698170",
+                    "name": "\/Resources\/Resource187.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "201",
+                    "uid": "1520042272170585:616882",
+                    "name": "\/Resources\/Resource201.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "202",
+                    "uid": "1520042272210559:616895",
+                    "name": "\/Resources\/Resource202.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "232",
+                    "uid": "1520377546958795:14078",
+                    "name": "\/Resources\/Resource232.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "233",
+                    "uid": "1520377547060209:14091",
+                    "name": "\/Resources\/Resource233.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "234",
+                    "uid": "1520377547150090:14104",
+                    "name": "\/Resources\/Resource234.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "235",
+                    "uid": "1520377547220437:14117",
+                    "name": "\/Resources\/Resource235.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "236",
+                    "uid": "1520377547312498:14130",
+                    "name": "\/Resources\/Resource236.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "237",
+                    "uid": "1520377547422874:14143",
+                    "name": "\/Resources\/Resource237.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "244",
+                    "uid": "1520471086194215:87129",
+                    "name": "\/Resources\/Resource244.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "245",
+                    "uid": "1520471086316424:87142",
+                    "name": "\/Resources\/Resource245.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "248",
+                    "uid": "1521063287653669:62477",
+                    "name": "\/Resources\/Resource248",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "256",
+                    "uid": "1521490711621484:78581",
+                    "name": "\/Resources\/Resource256.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "259",
+                    "uid": "1521490722281447:79747",
+                    "name": "\/Resources\/Resource259.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "262",
+                    "uid": "1521565863898955:9479",
+                    "name": "\/Resources\/Resource262.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "263",
+                    "uid": "1521565863901901:9491",
+                    "name": "\/Resources\/Resource263.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "278",
+                    "uid": "1521837201073875:3477",
+                    "name": "\/Resources\/Resource278.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "280",
+                    "uid": "1521837201029380:3446",
+                    "name": "\/Resources\/Resource280.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "281",
+                    "uid": "1521837201010855:3438",
+                    "name": "\/Resources\/Resource281.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "282",
+                    "uid": "1521837201060764:3461",
+                    "name": "\/Resources\/Resource282.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "283",
+                    "uid": "1521837200892827:3423",
+                    "name": "\/Resources\/Resource283.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "284",
+                    "uid": "1521837291018168:6506",
+                    "name": "\/Resources\/Resource284",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "285",
+                    "uid": "1521837301124417:6533",
+                    "name": "\/Resources\/Resource285",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "286",
+                    "uid": "1521837301179477:6549",
+                    "name": "\/Resources\/Resource286",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "287",
+                    "uid": "1521837301266028:6565",
+                    "name": "\/Resources\/Resource287",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "289",
+                    "uid": "1521837625347016:8207",
+                    "name": "\/Resources\/Resource289.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "290",
+                    "uid": "1521837625514731:8220",
+                    "name": "\/Resources\/Resource290.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "291",
+                    "uid": "1521837625686328:8233",
+                    "name": "\/Resources\/Resource291.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "292",
+                    "uid": "1521837625756225:8246",
+                    "name": "\/Resources\/Resource292.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "293",
+                    "uid": "1521837625842915:8259",
+                    "name": "\/Resources\/Resource293.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "294",
+                    "uid": "1521837625943557:8272",
+                    "name": "\/Resources\/Resource294.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "297",
+                    "uid": "1521841238680961:201762",
+                    "name": "\/Resources\/Resource297.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "299",
+                    "uid": "1521841238894042:201788",
+                    "name": "\/Resources\/Resource299.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "300",
+                    "uid": "1521841238975407:201801",
+                    "name": "\/Resources\/Resource300.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "301",
+                    "uid": "1521841444410650:202063",
+                    "name": "\/Resources\/Resource301",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "304",
+                    "uid": "1521842087706690:205275",
+                    "name": "\/Resources\/Resource304",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "305",
+                    "uid": "1521843195300120:252773",
+                    "name": "\/Resources\/Resource305.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "306",
+                    "uid": "1521843195391605:252786",
+                    "name": "\/Resources\/Resource306.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "307",
+                    "uid": "1521844521658780:269730",
+                    "name": "\/Resources\/Resource307",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "308",
+                    "uid": "1521844521660132:269742",
+                    "name": "\/Resources\/Resource308.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "309",
+                    "uid": "1521844719814779:269978",
+                    "name": "\/Resources\/Resource309.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "315",
+                    "uid": "1522170832186846:4166",
+                    "name": "\/Resources\/Resource315",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "316",
+                    "uid": "1522170902792342:4399",
+                    "name": "Scene Object 0 Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "319",
+                    "uid": "1522171312026245:7367",
+                    "name": "\/Resources\/Resource319.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "331",
+                    "uid": "1522446962785827:13621",
+                    "name": "\/Resources\/Resource331.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "332",
+                    "uid": "1562155580350301:11031",
+                    "name": "\/system\/\/lookup.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3"
+                },
+                {
+                    "resId": "333",
+                    "uid": "1562155580350737:11041",
+                    "name": "\/system\/\/retouch_mask.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3"
+                },
+                {
+                    "resId": "334",
+                    "uid": "1562155635828928:14038",
+                    "name": "Files\/File55.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1519673828987697:19514",
+                "1": "1519689117514299:44802",
+                "2": "1519756765504245:288349",
+                "3": "1520546489934271:37113",
+                "4": "1521490711580703:78568",
+                "5": "1521490711583957:78571",
+                "6": "1521490722242044:79737",
+                "7": "1521565863891751:9464",
+                "8": "1521565863891780:9467",
+                "9": "1521565863891837:9473",
+                "10": "1521689253683100:3572",
+                "11": "1521837200876860:3415",
+                "12": "1521837200881975:3419",
+                "13": "1521837201006685:3434",
+                "14": "1521837201010936:3442",
+                "15": "1521837201060178:3457",
+                "16": "1521837201071717:3473",
+                "17": "1522170902772223:4314",
+                "18": "1522170902792823:4408",
+                "19": "1522170902795960:4411"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.js"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.js"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.png"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.png"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.png"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15\/"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.mesh"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.mesh"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.mesh"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.mesh"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.mesh"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25\/"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26\/"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27\/"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28\/"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.jpg"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.png"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38\/"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39\/"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.jpg"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.jpg"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42\/"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.jpg"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45\/"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.js"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.png"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.lsmat"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.lsmat"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.lsmat"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.lsmat"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.lsmat"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.lsmat"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.lsmat"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.png"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.png"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Scripts\/CricketHelmetController.js"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Scripts\/CricketHelmetProperties.js"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Scripts\/FaceTrigger.js"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Models"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Models\/Cricket Helmet"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Models\/Cricket Helmet\/Materials"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Models\/Cricket Helmet\/Materials\/cricket_logo.lsmat"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Models\/Cricket Helmet\/Materials\/cricket_cap.lsmat"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Models\/Cricket Helmet\/Materials\/cricket_gird.lsmat"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Models\/Cricket Helmet\/Materials\/cricket_occluder.lsmat"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Models\/Cricket Helmet\/Materials\/cricket_cushions.lsmat"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Models\/Cricket Helmet\/Materials\/cricket_steel.lsmat"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Models\/Cricket Helmet\/Materials\/cricket_shadow.lsmat"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Models\/Cricket Helmet\/Meshes"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Models\/Cricket Helmet\/Meshes\/ocluder.mesh"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Models\/Cricket Helmet\/Meshes\/shadow.mesh"
+                    },
+                    {
+                        "k": "18",
+                        "v": "Models\/Cricket Helmet\/Meshes\/cricket_helmet_main.mesh"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Models\/Cricket Helmet\/Meshes\/cricket_helmet_logo.mesh"
+                    },
+                    {
+                        "k": "20",
+                        "v": "Models\/Cricket Helmet\/Meshes\/grid.mesh"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Models\/Cricket Helmet\/Textures"
+                    },
+                    {
+                        "k": "22",
+                        "v": "Models\/Cricket Helmet\/Textures\/cricket_helmet_Cricket_helmet_BaseColor.png"
+                    },
+                    {
+                        "k": "23",
+                        "v": "Models\/Cricket Helmet\/Textures\/cricket_helmet_Cricket_helmet_Mask.png"
+                    },
+                    {
+                        "k": "24",
+                        "v": "Models\/Cricket Helmet\/Textures\/cricket_helmet_Cricket_helmet_Normal.png"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Models\/Cricket Helmet\/Textures\/grid_base.jpg"
+                    },
+                    {
+                        "k": "26",
+                        "v": "Models\/Cricket Helmet\/Textures\/grid_masc.png"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Models\/Cricket Helmet\/Textures\/grid_normal.png"
+                    },
+                    {
+                        "k": "28",
+                        "v": "Models\/Cricket Helmet\/Textures\/mask_metalls.png"
+                    },
+                    {
+                        "k": "29",
+                        "v": "Models\/Cricket Helmet\/Textures\/mask_cushions.png"
+                    },
+                    {
+                        "k": "30",
+                        "v": "Models\/Cricket Helmet\/Textures\/mask_main.png"
+                    },
+                    {
+                        "k": "31",
+                        "v": "Models\/Cricket Helmet\/Textures\/logo_normal.jpg"
+                    },
+                    {
+                        "k": "32",
+                        "v": "Models\/Cricket Helmet\/Textures\/logo_tech.jpg"
+                    },
+                    {
+                        "k": "33",
+                        "v": "Models\/Cricket Helmet\/Textures\/base.png"
+                    },
+                    {
+                        "k": "34",
+                        "v": "Models\/Cricket Helmet\/Textures\/cap_shadow.jpg"
+                    },
+                    {
+                        "k": "35",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "36",
+                        "v": "Textures\/logo_opacity_mask.png"
+                    },
+                    {
+                        "k": "37",
+                        "v": "Textures\/echopark_diff.png"
+                    },
+                    {
+                        "k": "38",
+                        "v": "Textures\/echopark_spec.png"
+                    },
+                    {
+                        "k": "39",
+                        "v": "Logos"
+                    },
+                    {
+                        "k": "41",
+                        "v": "Logos\/yay.png"
+                    },
+                    {
+                        "k": "42",
+                        "v": "Logos\/wow.png"
+                    },
+                    {
+                        "k": "43",
+                        "v": "Logos\/cat_animated"
+                    },
+                    {
+                        "k": "44",
+                        "v": "Logos\/cricket_logo.png"
+                    },
+                    {
+                        "k": "45",
+                        "v": "Face Paint Patterns"
+                    },
+                    {
+                        "k": "46",
+                        "v": "Face Paint Patterns\/swirl_primary.png"
+                    },
+                    {
+                        "k": "47",
+                        "v": "Face Paint Patterns\/swirl_secondary.png"
+                    },
+                    {
+                        "k": "48",
+                        "v": "Face Paint Patterns\/kitty_primary.png"
+                    },
+                    {
+                        "k": "49",
+                        "v": "Face Paint Patterns\/kitty_secondary.png"
+                    },
+                    {
+                        "k": "50",
+                        "v": "Face Paint Patterns\/eye_lines_primary.png"
+                    },
+                    {
+                        "k": "51",
+                        "v": "Face Paint Patterns\/eye_lines_secondary.png"
+                    },
+                    {
+                        "k": "52",
+                        "v": "Face Paint Patterns\/eye_mask_primary.png"
+                    },
+                    {
+                        "k": "53",
+                        "v": "Face Paint Patterns\/eye_mask_secondary.png"
+                    },
+                    {
+                        "k": "54",
+                        "v": "Cricket Bat"
+                    },
+                    {
+                        "k": "55",
+                        "v": "Cricket Bat\/cricket_bat_animated"
+                    },
+                    {
+                        "k": "56",
+                        "v": "CompatibilityFiles"
+                    },
+                    {
+                        "k": "57",
+                        "v": "CompatibilityFiles\/Resource256.png"
+                    },
+                    {
+                        "k": "58",
+                        "v": "CompatibilityFiles\/Resource259.png"
+                    },
+                    {
+                        "k": "59",
+                        "v": "Logos\/flag-3d-round-250.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "677ecc24dd31faa53e0d924ced318a9f"
+                    },
+                    {
+                        "k": "3",
+                        "v": "18fd650cb6da4df983f06a55de5a0423"
+                    },
+                    {
+                        "k": "4",
+                        "v": "f1ebe156794a03446d0729616c1ae708"
+                    },
+                    {
+                        "k": "8",
+                        "v": "3d3ac8db024652c2c16f74af4b0e06ab"
+                    },
+                    {
+                        "k": "9",
+                        "v": "e897028fef0d30d2b9ed65c581dcd8a4"
+                    },
+                    {
+                        "k": "10",
+                        "v": "786a9675cb0393199d1cd30b98914734"
+                    },
+                    {
+                        "k": "11",
+                        "v": "68d8bba9a457bb3835e21de98ee645e1"
+                    },
+                    {
+                        "k": "12",
+                        "v": "790ea8c5f0652d0d3a0dd5d23b8a57ae"
+                    },
+                    {
+                        "k": "13",
+                        "v": "7978bf463bfb57b174197fee6121f54c"
+                    },
+                    {
+                        "k": "14",
+                        "v": "38a01cefb47bce0f7ac42a0e9554272f"
+                    },
+                    {
+                        "k": "16",
+                        "v": "90aff9bd0475cd13264e72a8dc620049"
+                    },
+                    {
+                        "k": "17",
+                        "v": "394b9c06e27af803ba7170a2c3d47e0a"
+                    },
+                    {
+                        "k": "18",
+                        "v": "9d2640c5787c0fa51c1eec093e08d458"
+                    },
+                    {
+                        "k": "19",
+                        "v": "e5595830dc64da4a9f962c2efc01bee7"
+                    },
+                    {
+                        "k": "20",
+                        "v": "fb7d9a4edd79302ae6474f07100fd221"
+                    },
+                    {
+                        "k": "22",
+                        "v": "eb59934bc0dc763e3c4b3a8ed645131c"
+                    },
+                    {
+                        "k": "23",
+                        "v": "6a98bfa56caf0fdca1ad9c78a182e7b8"
+                    },
+                    {
+                        "k": "24",
+                        "v": "044aeba7d23e04b1e211e4d0d7a58fcf"
+                    },
+                    {
+                        "k": "25",
+                        "v": "d60ce96fc86a257fa0b915398df7e39c"
+                    },
+                    {
+                        "k": "26",
+                        "v": "56efd46ac4eca24f2b06f9ebe904498f"
+                    },
+                    {
+                        "k": "27",
+                        "v": "6ba49ead6572243d50077f2b1c024416"
+                    },
+                    {
+                        "k": "28",
+                        "v": "2e3a0e2dbd8d32a5452a66d7529e600c"
+                    },
+                    {
+                        "k": "29",
+                        "v": "ee6d3710b013031f1bcd7efb841f6382"
+                    },
+                    {
+                        "k": "30",
+                        "v": "e2ee21dd5c7fc16aab8522bcbad40636"
+                    },
+                    {
+                        "k": "31",
+                        "v": "53dca490e9b5d8a1677451b72a21a0df"
+                    },
+                    {
+                        "k": "32",
+                        "v": "4d4cd993b770c7c41f76f70f9427f904"
+                    },
+                    {
+                        "k": "33",
+                        "v": "a1ff8c6f9f2997dd4f8c540d4f04c7dd"
+                    },
+                    {
+                        "k": "34",
+                        "v": "ccfb05f10f0980c386852b45229d03d6"
+                    },
+                    {
+                        "k": "36",
+                        "v": "35f21cc0ab077f65aeb696153dbb2f51"
+                    },
+                    {
+                        "k": "37",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "38",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "40",
+                        "v": "ecde3d7f021b3f8e9ff5a06918d61df3"
+                    },
+                    {
+                        "k": "41",
+                        "v": "89c0d1376ce25ac3dbbab08ecc299896"
+                    },
+                    {
+                        "k": "42",
+                        "v": "6d33435472a81a5ccc76f07217701b5e"
+                    },
+                    {
+                        "k": "43",
+                        "v": "b06b253906f9dbf0fa2993b571b5977b"
+                    },
+                    {
+                        "k": "44",
+                        "v": "a0351f286a90d9fa4f8d8cd0cba9b982"
+                    },
+                    {
+                        "k": "46",
+                        "v": "207ed693f978b7fb0a3ab9f5b652984d"
+                    },
+                    {
+                        "k": "47",
+                        "v": "7fd17dbbe882657c9cb2f41f724fcb4a"
+                    },
+                    {
+                        "k": "48",
+                        "v": "04182acc9b34c0968a6a85c0f3b843c0"
+                    },
+                    {
+                        "k": "49",
+                        "v": "6050bbc848a357d87c3b1c7405b6d17b"
+                    },
+                    {
+                        "k": "50",
+                        "v": "43b23e41e86a361a825692d02251ec3d"
+                    },
+                    {
+                        "k": "51",
+                        "v": "ac807a5bd61271db86558aac35b3d5ce"
+                    },
+                    {
+                        "k": "52",
+                        "v": "42570d04654dc7299ec9ae4fea8555c1"
+                    },
+                    {
+                        "k": "53",
+                        "v": "3d64feb8a5e290c7615b29a4683179ed"
+                    },
+                    {
+                        "k": "55",
+                        "v": "6880d41fe847650afa13a7aa323f6642"
+                    },
+                    {
+                        "k": "57",
+                        "v": "4a352114931b516bda520c1cd01204c6"
+                    },
+                    {
+                        "k": "58",
+                        "v": "4a352114931b516bda520c1cd01204c6"
+                    },
+                    {
+                        "k": "59",
+                        "v": "a0351f286a90d9fa4f8d8cd0cba9b982"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2019-07-03T18:04:03",
+                        "name": "Public",
+                        "hash": "ea12d245cdab66ce3c38bf70a97f88bd",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-07-03T18:04:03",
+                                "name": "CompatibilityFiles",
+                                "hash": "14f4322c2468ed1ef0692513e16340c3",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:36:20",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "Resource256.png",
+                                        "hash": "4a352114931b516bda520c1cd01204c6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "Resource259.png",
+                                        "hash": "4a352114931b516bda520c1cd01204c6",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-07-03T18:04:03",
+                                "name": "Cricket Bat",
+                                "hash": "159d1112b6177bac0947b13ab02b3202",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-03T18:04:03",
+                                        "name": "cricket_bat_animated",
+                                        "hash": "6880d41fe847650afa13a7aa323f6642",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-03T17:35:34",
+                                                "name": "atlas_0.png",
+                                                "hash": "3dec0c84551f11fda8a2be303862ae93",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-03T17:35:34",
+                                                "name": "Resource315.t3d",
+                                                "hash": "c8eea4d5b15fe129e3c4701b6c7517aa",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:36:20",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-07-03T18:04:03",
+                                "name": "Face Paint Patterns",
+                                "hash": "8116b2a9c943c2c06d8979b362212aef",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "eye_lines_primary.png",
+                                        "hash": "43b23e41e86a361a825692d02251ec3d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "eye_lines_secondary.png",
+                                        "hash": "ac807a5bd61271db86558aac35b3d5ce",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "eye_mask_primary.png",
+                                        "hash": "42570d04654dc7299ec9ae4fea8555c1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "eye_mask_secondary.png",
+                                        "hash": "3d64feb8a5e290c7615b29a4683179ed",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:36:20",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "kitty_primary.png",
+                                        "hash": "04182acc9b34c0968a6a85c0f3b843c0",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "kitty_secondary.png",
+                                        "hash": "6050bbc848a357d87c3b1c7405b6d17b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "swirl_primary.png",
+                                        "hash": "207ed693f978b7fb0a3ab9f5b652984d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "swirl_secondary.png",
+                                        "hash": "7fd17dbbe882657c9cb2f41f724fcb4a",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-07-03T17:36:20",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-07-03T18:04:03",
+                                "name": "Logos",
+                                "hash": "4d62b853467c7cd1e4b1e9f9609f258a",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-03T18:04:03",
+                                        "name": "cat_animated",
+                                        "hash": "b06b253906f9dbf0fa2993b571b5977b",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-03T17:35:33",
+                                                "name": "atlas_0.png",
+                                                "hash": "bd317a44c006274113457d1ae476a1a1",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-03T17:35:33",
+                                                "name": "Resource248.t3d",
+                                                "hash": "e7c107cd68879f6b4928ac57c2869122",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:18:15",
+                                        "name": "cricket_logo.png",
+                                        "hash": "a0351f286a90d9fa4f8d8cd0cba9b982",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:18:15",
+                                        "name": "flag-3d-round-250.png",
+                                        "hash": "a0351f286a90d9fa4f8d8cd0cba9b982",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:36:20",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "wow.png",
+                                        "hash": "6d33435472a81a5ccc76f07217701b5e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "yay.png",
+                                        "hash": "89c0d1376ce25ac3dbbab08ecc299896",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-07-03T18:04:03",
+                                "name": "Models",
+                                "hash": "e25acf7bf6979d0e4a0526ea041874a3",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-03T18:04:03",
+                                        "name": "Cricket Helmet",
+                                        "hash": "d92e04d32d239f99100ec804ffabece5",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-03T17:36:20",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-07-03T18:04:03",
+                                                "name": "Materials",
+                                                "hash": "99cefd9193a3435168d29825d4f7ee80",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:36:18",
+                                                        "name": "cricket_cap.lsmat",
+                                                        "hash": "e897028fef0d30d2b9ed65c581dcd8a4",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:36:19",
+                                                        "name": "cricket_cushions.lsmat",
+                                                        "hash": "790ea8c5f0652d0d3a0dd5d23b8a57ae",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:36:19",
+                                                        "name": "cricket_gird.lsmat",
+                                                        "hash": "786a9675cb0393199d1cd30b98914734",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:36:18",
+                                                        "name": "cricket_logo.lsmat",
+                                                        "hash": "3d3ac8db024652c2c16f74af4b0e06ab",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:36:19",
+                                                        "name": "cricket_occluder.lsmat",
+                                                        "hash": "68d8bba9a457bb3835e21de98ee645e1",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:36:20",
+                                                        "name": "cricket_shadow.lsmat",
+                                                        "hash": "38a01cefb47bce0f7ac42a0e9554272f",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:36:19",
+                                                        "name": "cricket_steel.lsmat",
+                                                        "hash": "7978bf463bfb57b174197fee6121f54c",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:36:20",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-07-03T18:04:03",
+                                                "name": "Meshes",
+                                                "hash": "c524025d70c785a042bfc8a8e218aea7",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "cricket_helmet_logo.mesh",
+                                                        "hash": "e5595830dc64da4a9f962c2efc01bee7",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "cricket_helmet_main.mesh",
+                                                        "hash": "9d2640c5787c0fa51c1eec093e08d458",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:36:20",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "grid.mesh",
+                                                        "hash": "fb7d9a4edd79302ae6474f07100fd221",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "ocluder.mesh",
+                                                        "hash": "90aff9bd0475cd13264e72a8dc620049",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "shadow.mesh",
+                                                        "hash": "394b9c06e27af803ba7170a2c3d47e0a",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-07-03T18:04:03",
+                                                "name": "Textures",
+                                                "hash": "521b817382e06288e714e298ae0af658",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "base.png",
+                                                        "hash": "a1ff8c6f9f2997dd4f8c540d4f04c7dd",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "cap_shadow.jpg",
+                                                        "hash": "ccfb05f10f0980c386852b45229d03d6",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "cricket_helmet_Cricket_helmet_BaseColor.png",
+                                                        "hash": "eb59934bc0dc763e3c4b3a8ed645131c",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "cricket_helmet_Cricket_helmet_Mask.png",
+                                                        "hash": "6a98bfa56caf0fdca1ad9c78a182e7b8",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "cricket_helmet_Cricket_helmet_Normal.png",
+                                                        "hash": "044aeba7d23e04b1e211e4d0d7a58fcf",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:36:20",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "grid_base.jpg",
+                                                        "hash": "d60ce96fc86a257fa0b915398df7e39c",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "grid_masc.png",
+                                                        "hash": "56efd46ac4eca24f2b06f9ebe904498f",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "grid_normal.png",
+                                                        "hash": "6ba49ead6572243d50077f2b1c024416",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "logo_normal.jpg",
+                                                        "hash": "53dca490e9b5d8a1677451b72a21a0df",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "logo_tech.jpg",
+                                                        "hash": "4d4cd993b770c7c41f76f70f9427f904",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "mask_cushions.png",
+                                                        "hash": "ee6d3710b013031f1bcd7efb841f6382",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "mask_main.png",
+                                                        "hash": "e2ee21dd5c7fc16aab8522bcbad40636",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-03T17:35:34",
+                                                        "name": "mask_metalls.png",
+                                                        "hash": "2e3a0e2dbd8d32a5452a66d7529e600c",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:36:20",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-07-03T18:04:03",
+                                "name": "Scripts",
+                                "hash": "6afe9aa4503ca434dd7cae18b5603636",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "CricketHelmetController.js",
+                                        "hash": "677ecc24dd31faa53e0d924ced318a9f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "CricketHelmetProperties.js",
+                                        "hash": "18fd650cb6da4df983f06a55de5a0423",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "FaceTrigger.js",
+                                        "hash": "f1ebe156794a03446d0729616c1ae708",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:36:20",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-07-03T18:04:03",
+                                "name": "Textures",
+                                "hash": "a1ac787cb9f33aaeda299313c5957f94",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "echopark_diff.png",
+                                        "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "echopark_spec.png",
+                                        "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:36:20",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-03T17:35:34",
+                                        "name": "logo_opacity_mask.png",
+                                        "hash": "35f21cc0ab077f65aeb696153dbb2f51",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "43",
+                    "55"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "CricketHelmetController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "112",
+                                "dependency": "0",
+                                "uid": "1519673772676472:19426",
+                                "fileId": "1",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "CricketHelmetProperties",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "187",
+                                "dependency": "0",
+                                "uid": "1519771519063885:698170",
+                                "fileId": "3",
+                                "originalId": "18446744073709551615",
+                                "publicId": "3",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "FaceTrigger",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "319",
+                                "dependency": "0",
+                                "uid": "1522171312026245:7367",
+                                "fileId": "46",
+                                "originalId": "18446744073709551615",
+                                "publicId": "4",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Models",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "5",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Cricket Helmet",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "6",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "7",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "cricket_logo",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "284",
+                                                "dependency": "0",
+                                                "uid": "1521837291018168:6506",
+                                                "fileId": "25",
+                                                "originalId": "48",
+                                                "publicId": "8",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "cricket_cap",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "285",
+                                                "dependency": "0",
+                                                "uid": "1521837301124417:6533",
+                                                "fileId": "26",
+                                                "originalId": "49",
+                                                "publicId": "9",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "cricket_gird",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "286",
+                                                "dependency": "0",
+                                                "uid": "1521837301179477:6549",
+                                                "fileId": "27",
+                                                "originalId": "50",
+                                                "publicId": "10",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "cricket_occluder",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "287",
+                                                "dependency": "0",
+                                                "uid": "1521837301266028:6565",
+                                                "fileId": "28",
+                                                "originalId": "51",
+                                                "publicId": "11",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "cricket_cushions",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "301",
+                                                "dependency": "0",
+                                                "uid": "1521841444410650:202063",
+                                                "fileId": "38",
+                                                "originalId": "52",
+                                                "publicId": "12",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "cricket_steel",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "304",
+                                                "dependency": "0",
+                                                "uid": "1521842087706690:205275",
+                                                "fileId": "39",
+                                                "originalId": "53",
+                                                "publicId": "13",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "cricket_shadow",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "307",
+                                                "dependency": "0",
+                                                "uid": "1521844521658780:269730",
+                                                "fileId": "42",
+                                                "originalId": "54",
+                                                "publicId": "14",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "15",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "ocluder",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "283",
+                                                "dependency": "0",
+                                                "uid": "1521837200892827:3423",
+                                                "fileId": "20",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "16",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "shadow",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "281",
+                                                "dependency": "0",
+                                                "uid": "1521837201010855:3438",
+                                                "fileId": "21",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "17",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "cricket_helmet_main",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "280",
+                                                "dependency": "0",
+                                                "uid": "1521837201029380:3446",
+                                                "fileId": "22",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "cricket_helmet_logo",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "282",
+                                                "dependency": "0",
+                                                "uid": "1521837201060764:3461",
+                                                "fileId": "23",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "19",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "grid",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "278",
+                                                "dependency": "0",
+                                                "uid": "1521837201073875:3477",
+                                                "fileId": "24",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "20",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "21",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "cricket_helmet_Cricket_helmet_BaseColor",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "289",
+                                                "dependency": "0",
+                                                "uid": "1521837625347016:8207",
+                                                "fileId": "29",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "22",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "cricket_helmet_Cricket_helmet_Mask",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "290",
+                                                "dependency": "0",
+                                                "uid": "1521837625514731:8220",
+                                                "fileId": "30",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "23",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "cricket_helmet_Cricket_helmet_Normal",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "291",
+                                                "dependency": "0",
+                                                "uid": "1521837625686328:8233",
+                                                "fileId": "31",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "24",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "grid_base",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "292",
+                                                "dependency": "0",
+                                                "uid": "1521837625756225:8246",
+                                                "fileId": "32",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "25",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "grid_masc",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "293",
+                                                "dependency": "0",
+                                                "uid": "1521837625842915:8259",
+                                                "fileId": "33",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "grid_normal",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "294",
+                                                "dependency": "0",
+                                                "uid": "1521837625943557:8272",
+                                                "fileId": "34",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "27",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "mask_metalls",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "297",
+                                                "dependency": "0",
+                                                "uid": "1521841238680961:201762",
+                                                "fileId": "35",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "28",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "mask_cushions",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "299",
+                                                "dependency": "0",
+                                                "uid": "1521841238894042:201788",
+                                                "fileId": "36",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "29",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "mask_main",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "300",
+                                                "dependency": "0",
+                                                "uid": "1521841238975407:201801",
+                                                "fileId": "37",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "30",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "logo_normal",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "305",
+                                                "dependency": "0",
+                                                "uid": "1521843195300120:252773",
+                                                "fileId": "40",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "31",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "logo_tech",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "306",
+                                                "dependency": "0",
+                                                "uid": "1521843195391605:252786",
+                                                "fileId": "41",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "32",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "base",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "308",
+                                                "dependency": "0",
+                                                "uid": "1521844521660132:269742",
+                                                "fileId": "43",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "33",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "cap_shadow",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "309",
+                                                "dependency": "0",
+                                                "uid": "1521844719814779:269978",
+                                                "fileId": "44",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "34",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "35",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "logo_opacity_mask",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "113",
+                                "dependency": "0",
+                                "uid": "1519674086465957:22446",
+                                "fileId": "2",
+                                "originalId": "18446744073709551615",
+                                "publicId": "36",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "262",
+                                "dependency": "0",
+                                "uid": "1521565863898955:9479",
+                                "fileId": "18",
+                                "originalId": "18446744073709551615",
+                                "publicId": "37",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "263",
+                                "dependency": "0",
+                                "uid": "1521565863901901:9491",
+                                "fileId": "19",
+                                "originalId": "18446744073709551615",
+                                "publicId": "38",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Scene Object 0 Output",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "316",
+                                "dependency": "0",
+                                "uid": "1522170902792342:4399",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Logos",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "39",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "yay",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "201",
+                                "dependency": "0",
+                                "uid": "1520042272170585:616882",
+                                "fileId": "5",
+                                "originalId": "18446744073709551615",
+                                "publicId": "41",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "wow",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "202",
+                                "dependency": "0",
+                                "uid": "1520042272210559:616895",
+                                "fileId": "6",
+                                "originalId": "18446744073709551615",
+                                "publicId": "42",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "cat_animated",
+                                "type": "1",
+                                "subtype": "5",
+                                "resourceId": "248",
+                                "dependency": "0",
+                                "uid": "1521063287653669:62477",
+                                "fileId": "15",
+                                "originalId": "18446744073709551615",
+                                "publicId": "43",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "cricket_logo",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "331",
+                                "dependency": "0",
+                                "uid": "1522446962785827:13621",
+                                "fileId": "47",
+                                "originalId": "57",
+                                "publicId": "44",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "flag-3d-round-250",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "334",
+                                "dependency": "0",
+                                "uid": "1562155635828928:14038",
+                                "fileId": "55",
+                                "originalId": "56",
+                                "publicId": "59",
+                                "source": "C:\/Users\/Lakshya Mathur\/Desktop\/flag-3d-round-250.png",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Face Paint Patterns",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "45",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "swirl_primary",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "232",
+                                "dependency": "0",
+                                "uid": "1520377546958795:14078",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "46",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "swirl_secondary",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "233",
+                                "dependency": "0",
+                                "uid": "1520377547060209:14091",
+                                "fileId": "8",
+                                "originalId": "18446744073709551615",
+                                "publicId": "47",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "kitty_primary",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "234",
+                                "dependency": "0",
+                                "uid": "1520377547150090:14104",
+                                "fileId": "9",
+                                "originalId": "18446744073709551615",
+                                "publicId": "48",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "kitty_secondary",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "235",
+                                "dependency": "0",
+                                "uid": "1520377547220437:14117",
+                                "fileId": "10",
+                                "originalId": "18446744073709551615",
+                                "publicId": "49",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "eye_lines_primary",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "236",
+                                "dependency": "0",
+                                "uid": "1520377547312498:14130",
+                                "fileId": "11",
+                                "originalId": "18446744073709551615",
+                                "publicId": "50",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "eye_lines_secondary",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "237",
+                                "dependency": "0",
+                                "uid": "1520377547422874:14143",
+                                "fileId": "12",
+                                "originalId": "18446744073709551615",
+                                "publicId": "51",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "eye_mask_primary",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "244",
+                                "dependency": "0",
+                                "uid": "1520471086194215:87129",
+                                "fileId": "13",
+                                "originalId": "18446744073709551615",
+                                "publicId": "52",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "eye_mask_secondary",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "245",
+                                "dependency": "0",
+                                "uid": "1520471086316424:87142",
+                                "fileId": "14",
+                                "originalId": "18446744073709551615",
+                                "publicId": "53",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cricket Bat",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "54",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "cricket_bat_animated",
+                                "type": "1",
+                                "subtype": "5",
+                                "resourceId": "315",
+                                "dependency": "0",
+                                "uid": "1522170832186846:4166",
+                                "fileId": "45",
+                                "originalId": "18446744073709551615",
+                                "publicId": "55",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "CompatibilityFiles",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "56",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Resource256",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "256",
+                                "dependency": "0",
+                                "uid": "1521490711621484:78581",
+                                "fileId": "16",
+                                "originalId": "18446744073709551615",
+                                "publicId": "57",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Resource259",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "259",
+                                "dependency": "0",
+                                "uid": "1521490722281447:79747",
+                                "fileId": "17",
+                                "originalId": "18446744073709551615",
+                                "publicId": "58",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1522446962785827:13621",
+                        "path_list": [
+                            "Logos",
+                            "cricket_logo"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
