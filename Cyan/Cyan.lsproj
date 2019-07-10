@@ -1,0 +1,931 @@
+{
+    "lens_id": "",
+    "document_id": "fNcPJJxPCq53n5t-CrYr",
+    "original_document_id": "xvF_7T0j-vL6HH0VCjv0",
+    "version": "14",
+    "lastChanged": "1562781393987",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "0",
+            "patch": "0",
+            "build": "2"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "0",
+            "patch": "0",
+            "build": "2"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "1"
+                    ],
+                    [
+                        "2"
+                    ],
+                    [
+                        "Curve"
+                    ],
+                    [
+                        "Empty"
+                    ],
+                    [
+                        "Empty_2"
+                    ],
+                    [
+                        "FrontCameraMirror"
+                    ],
+                    [
+                        "Invert"
+                    ],
+                    [
+                        "Night Vision"
+                    ],
+                    [
+                        "US Capitol Building"
+                    ],
+                    [
+                        "US Capitol Building",
+                        "Materials"
+                    ],
+                    [
+                        "US Capitol Building",
+                        "Materials",
+                        "Occluder"
+                    ],
+                    [
+                        "US Capitol Building",
+                        "Meshes"
+                    ],
+                    [
+                        "US Capitol Building",
+                        "Meshes",
+                        "Building"
+                    ],
+                    [
+                        "US Capitol Building Asset"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "03bb7fc6dcb9b636acd724682fcf7de8",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Cyan",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1562779894679201:2040",
+                    "name": "Files\/File3.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1562779902761694:2446",
+                    "name": "Files\/File5.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1562780112152734:3319",
+                    "name": "Files\/File7.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1562780441742337:4744",
+                    "name": "Files\/File9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1562780469876380:6745",
+                    "name": "Files\/File13.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1562780494490773:8096",
+                    "name": "Files\/File17.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1562780511488489:9009",
+                    "name": "Files\/File19.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1562780528297494:10137",
+                    "name": "Location Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1562780528487909:10179",
+                    "name": "Files\/File21",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1562780528654038:10195",
+                    "name": "Files\/File23.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1562780529039338:10286",
+                    "name": "Files\/File24.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1562779892843138:1984",
+                "4": "1562779892843760:1987",
+                "5": "1562780511086912:8956"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.png"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.png"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.png"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.png"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.png"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.mesh"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Empty.png"
+                    },
+                    {
+                        "k": "4",
+                        "v": "1.png"
+                    },
+                    {
+                        "k": "5",
+                        "v": "2.png"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Invert.png"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Night Vision.png"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Curve.png"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Empty_2.png"
+                    },
+                    {
+                        "k": "12",
+                        "v": "US Capitol Building"
+                    },
+                    {
+                        "k": "13",
+                        "v": "US Capitol Building\/Materials"
+                    },
+                    {
+                        "k": "14",
+                        "v": "US Capitol Building\/Materials\/Occluder.lsmat"
+                    },
+                    {
+                        "k": "15",
+                        "v": "US Capitol Building\/Meshes"
+                    },
+                    {
+                        "k": "16",
+                        "v": "US Capitol Building\/Meshes\/Building.mesh"
+                    },
+                    {
+                        "k": "17",
+                        "v": "FrontCameraMirror.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "b7ec8ab99cf2c70f2a406cd77de6cc1a"
+                    },
+                    {
+                        "k": "4",
+                        "v": "ccd1f1a9bff5919e4eed74bdb9f693b8"
+                    },
+                    {
+                        "k": "5",
+                        "v": "bf0c5d2808ae23f73a8fa8aa00be17bf"
+                    },
+                    {
+                        "k": "6",
+                        "v": "fffc4fbfdff44619dc75c31efc6ef993"
+                    },
+                    {
+                        "k": "7",
+                        "v": "ca200af9b9dd5b62cf8bc2df9cbd79fd"
+                    },
+                    {
+                        "k": "8",
+                        "v": "ca68a8c4ee544917cbcd83465c4fdeee"
+                    },
+                    {
+                        "k": "9",
+                        "v": "86f32f4eb190e4ee449838726224613d"
+                    },
+                    {
+                        "k": "10",
+                        "v": "8b7fbd5cb8cd4295d0df9ae11060425c"
+                    },
+                    {
+                        "k": "11",
+                        "v": "b7ec8ab99cf2c70f2a406cd77de6cc1a"
+                    },
+                    {
+                        "k": "14",
+                        "v": "33282a2ccb206c17b658e6c89b977b8e"
+                    },
+                    {
+                        "k": "16",
+                        "v": "0ada03b0f9f9441f6f7aadbe1c866b66"
+                    },
+                    {
+                        "k": "17",
+                        "v": "5e0e42b2f75580a56fd367be1ae7308c"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2019-07-10T23:26:30",
+                        "name": "Public",
+                        "hash": "d051edd312333e84c404c5449a503040",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-07-10T23:00:47",
+                                "name": "1.png",
+                                "hash": "ccd1f1a9bff5919e4eed74bdb9f693b8",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-07-10T23:05:05",
+                                "name": "2.png",
+                                "hash": "bf0c5d2808ae23f73a8fa8aa00be17bf",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-02-05T18:08:28",
+                                "name": "Curve.png",
+                                "hash": "8b7fbd5cb8cd4295d0df9ae11060425c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-04T08:08:26",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-04T08:08:26",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-02-05T18:08:28",
+                                "name": "Empty.png",
+                                "hash": "b7ec8ab99cf2c70f2a406cd77de6cc1a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-02-05T18:08:28",
+                                "name": "Empty_2.png",
+                                "hash": "b7ec8ab99cf2c70f2a406cd77de6cc1a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-04T08:08:26",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-03-29T15:20:08",
+                                "name": "FrontCameraMirror.js",
+                                "hash": "5e0e42b2f75580a56fd367be1ae7308c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-02-05T18:08:28",
+                                "name": "Invert.png",
+                                "hash": "fffc4fbfdff44619dc75c31efc6ef993",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-02-05T18:08:28",
+                                "name": "Night Vision.png",
+                                "hash": "ca68a8c4ee544917cbcd83465c4fdeee",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-07-10T23:26:30",
+                                "name": "US Capitol Building",
+                                "hash": "0a041c560681f7417bdb41e269d243e2",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-10T23:12:08",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-10T23:26:30",
+                                        "name": "Materials",
+                                        "hash": "1d7bc69a51c8fcd74786b196a6c78949",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-10T23:12:08",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-10T23:12:09",
+                                                "name": "Occluder.lsmat",
+                                                "hash": "33282a2ccb206c17b658e6c89b977b8e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-10T23:26:30",
+                                        "name": "Meshes",
+                                        "hash": "c459b64eb41bb09c77de7742b9b2aa5c",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-10T23:12:08",
+                                                "name": "Building.mesh",
+                                                "hash": "0ada03b0f9f9441f6f7aadbe1c866b66",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-10T23:12:08",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Empty",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "10",
+                        "dependency": "0",
+                        "uid": "1562779894679201:2040",
+                        "fileId": "3",
+                        "originalId": "4",
+                        "publicId": "3",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/post_effects\/Empty.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "1",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "uid": "1562779902761694:2446",
+                        "fileId": "5",
+                        "originalId": "6",
+                        "publicId": "4",
+                        "source": "C:\/Users\/Lakshya Mathur\/Desktop\/1.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "uid": "1562780112152734:3319",
+                        "fileId": "7",
+                        "originalId": "8",
+                        "publicId": "5",
+                        "source": "C:\/Users\/Lakshya Mathur\/Desktop\/2.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Invert",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1562780441742337:4744",
+                        "fileId": "9",
+                        "originalId": "10",
+                        "publicId": "6",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/post_effects\/Invert.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Night Vision",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "uid": "1562780469876380:6745",
+                        "fileId": "13",
+                        "originalId": "14",
+                        "publicId": "8",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/post_effects\/NightVision.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Curve",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1562780494490773:8096",
+                        "fileId": "17",
+                        "originalId": "18",
+                        "publicId": "10",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/post_effects\/Curve.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Empty_2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "18",
+                        "dependency": "0",
+                        "uid": "1562780511488489:9009",
+                        "fileId": "19",
+                        "originalId": "20",
+                        "publicId": "11",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/post_effects\/Empty.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "US Capitol Building Asset",
+                        "type": "20",
+                        "subtype": "-1",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "uid": "1562780528297494:10137",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "US Capitol Building",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "12",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "13",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Occluder",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "uid": "1562780528487909:10179",
+                                        "fileId": "21",
+                                        "originalId": "22",
+                                        "publicId": "14",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "15",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Building",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "21",
+                                        "dependency": "0",
+                                        "uid": "1562780528654038:10195",
+                                        "fileId": "23",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "16",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FrontCameraMirror",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "uid": "1562780529039338:10286",
+                        "fileId": "24",
+                        "originalId": "18446744073709551615",
+                        "publicId": "17",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Scripting\/FrontCameraMirror.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1562780511086912:8956"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
